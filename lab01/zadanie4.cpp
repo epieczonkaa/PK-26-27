@@ -1,10 +1,11 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main(){
 
     float R=0;
-    cout << "R ="' << endl;
+    cout << "R = " << endl;
     cin >> R;
 
     float pole = 3.14 * R * R;
